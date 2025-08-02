@@ -1,72 +1,92 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm YOUR NAME</h1>
-<h3 align="center">A passionate developer from YOUR COUNTRY</h3>
+<!-- Gradient Header with Wave Divider -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=20B2AA&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Menuka+Dilshan;Full-Stack+Developer;AI+Enthusiast;Open-Source+Contributor;From+Sri+Lanka" alt="Typing SVG" />
+  
+  ![wave-divider](https://user-images.githubusercontent.com/74038190/212284115-47af1967-a88e-4c4e-9e5e-9a5a6c5f8d2b.gif)
+</div>
 
-<!-- Social Badges -->
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social" alt="GitHub Followers" />
+---
+
+<!-- Animated Grid Layout -->
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Menuka4414&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Menuka4414&theme=algolia" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Menuka4414&layout=compact&theme=algolia&langs_count=6" />
+</div>
+
+---
+
+<!-- 3D Tech Stack with Animated Icons -->
+<h2 align="center">🛠️ Tech Stack</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,express,tensorflow,pytorch,docker,git,github,vscode,html,css,tailwind,linux,mongodb,mysql,postgres,aws,azure,figma&perline=8" />
+</div>
+
+---
+
+<!-- Animated About Me Cards -->
+<h2 align="center">💡 About Me</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3>🚀 Development</h3>
+        <p>
+          - Full-stack developer with 3+ years experience<br>
+          - Specialized in AI/ML/DL integration<br>
+          - Passionate about clean, efficient code<br>
+          - Blockchain and Web3 enthusiast
+        </p>
+      </td>
+      <td width="50%">
+        <h3>🌱 Learning</h3>
+        <p>
+          - Advanced Neural Networks<br>
+          - Smart Contract Development<br>
+          - Cloud Architecture<br>
+          - Quantum Computing Basics
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<!-- Animated Project Showcase -->
+<h2 align="center">🌟 Featured Projects</h2>
+<div align="center">
+  <a href="https://github.com/Menuka4414/project1">
+    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Menuka4414&repo=project1&theme=algolia" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="blank">
-    <img src="https://img.shields.io/twitter/follow/YOUR_TWITTER?style=social" alt="Twitter Follow" />
+  <a href="https://github.com/Menuka4414/project2">
+    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Menuka4414&repo=project2&theme=algolia" />
   </a>
-</p>
+</div>
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 I’m currently working on **[PROJECT_NAME](LINK_TO_PROJECT)**  
-- 🌱 I’m currently learning **Machine Learning, Blockchain & AI**  
-- 👯 I’m looking to collaborate on **Open Source Projects**  
-- 💬 Ask me about **Python, Data Science, AI, Blockchain**  
-- 📫 Reach me at **your.email@example.com**
-
----
-
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker,git,github,vscode,html,css,js,react,fastapi,linux" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" height="165" />
-</p>
-
----
-
-### 🔝 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</p>
-
----
-
-### 📫 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" />
+<!-- Animated Social Links -->
+<h2 align="center">📫 Let's Connect</h2>
+<div align="center">
+  <a href="https://linkedin.com/in/menuka-dilshan">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40" width="40" />
+  <a href="https://twitter.com/MenukaDilshan">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
-    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" width="40" />
+  <a href="mailto:menukadilshan4414@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
+  <a href="https://medium.com/@yourusername">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<!-- Animated Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=20B2AA&height=100&section=footer&fontSize=90" />
+</div>
