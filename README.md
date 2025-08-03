@@ -74,28 +74,32 @@
 
 ---
 
-<!-- Social Links with Badges -->
-<h2 align="center">📫 Let's Connect</h2>
-<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+<!-- Social Links with Badges - Modern Design -->
+<h2 align="center">🌐 Connect With Me</h2>
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 12px; max-width: 800px; margin: 0 auto;">
 
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/menuka-dilshan-1a3726212" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
+  <!-- LinkedIn - Enhanced -->
+  <a href="https://www.linkedin.com/in/menuka-dilshan-1a3726212" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161B22&label=&color=0077B5" alt="LinkedIn" style="width: 100%;"/>
+    <p align="center" style="margin-top: 4px; color: #58a6ff;">Professional Profile</p>
   </a>
-  
-  <!-- Twitter/X -->
-  <a href="https://x.com/MenukaDils12124" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117" alt="Twitter/X"/>
+
+  <!-- Twitter/X - Modern -->
+  <a href="https://x.com/MenukaDils12124" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=161B22&color=000000" alt="Twitter/X" style="width: 100%;"/>
+    <p align="center" style="margin-top: 4px; color: #58a6ff;">Daily Updates</p>
   </a>
-  
-  <!-- Email -->
-  <a href="mailto:menukadilshan335@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Gmail"/>
+
+  <!-- Email - Professional -->
+  <a href="mailto:menukadilshan335@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22&color=D14836" alt="Gmail" style="width: 100%;"/>
+    <p align="center" style="margin-top: 4px; color: #58a6ff;">Contact Me</p>
   </a>
-  
-  <!-- GitHub -->
-  <a href="https://github.com/Menuka4414" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/>
+
+  <!-- GitHub - Highlighted -->
+  <a href="https://github.com/Menuka4414" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22&color=181717" alt="GitHub" style="width: 100%;"/>
+    <p align="center" style="margin-top: 4px; color: #58a6ff;">My Projects</p>
   </a>
 
 </div>
