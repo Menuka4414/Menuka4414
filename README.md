@@ -58,7 +58,7 @@
 <h2 align="center">🌟 Featured Projects</h2>
 <div align="center">
   <!-- First Project -->
-  <a href="https://github.com/Menuka4414/Stock-Market-Prediction">
+  <a href="https://github.com/Menuka4414/Machine-Learning-Mini-project-">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Menuka4414&repo=Stock-Market-Prediction&theme=algolia&bg_color=0d1117&hide_border=true" />
   </a>
   
