@@ -80,7 +80,7 @@
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/menuka-dilshan-1a3726212" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" style="width: 100%;"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" style="width: 40%;"/>
     <p align="center" style="margin-top: 4px; color: #58a6ff;">Professional Profile</p>
   </a>
 
@@ -103,7 +103,7 @@
   </a>
 
   <!-- Medium -->
-  <a href="https://medium.com/@yourusername" target="_blank" style="text-decoration: none;">
+  <a href="https://medium.com/@menukadilshan335" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=0D1117" alt="Medium" style="width: 40%;"/>
     <p align="center" style="margin-top: 4px; color: #58a6ff;">My Articles</p>
   </a>
