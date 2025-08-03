@@ -74,23 +74,31 @@
 
 ---
 
-<!-- Animated Social Links -->
+<!-- Social Links with Badges -->
 <h2 align="center">📫 Let's Connect</h2>
-<div align="center">
-  <a href="https://linkedin.com/in/menuka-dilshan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/MenukaDilshan">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:menukadilshan4414@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@yourusername">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-</div>
+<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
 
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/menuka-dilshan-1a3726212" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
+  </a>
+  
+  <!-- Twitter/X -->
+  <a href="https://x.com/MenukaDils12124" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117" alt="Twitter/X"/>
+  </a>
+  
+  <!-- Email -->
+  <a href="mailto:menukadilshan335@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Gmail"/>
+  </a>
+  
+  <!-- GitHub -->
+  <a href="https://github.com/Menuka4414" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/>
+  </a>
+
+</div>
 ---
 
 <!-- Animated Footer -->
