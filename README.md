@@ -1,6 +1,6 @@
-<!-- Gradient Header with Wave Divider -->
+<!-- Fixed Gradient Header with Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=20B2AA&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Menuka+Dilshan;Full-Stack+Developer;AI+Enthusiast;Open-Source+Contributor;From+Sri+Lanka" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=20B2AA&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Menuka+Dilshan;Full-Stack+Developer;AI+Enthusiast;Open-Source+Contributor;From+Sri+Lanka" alt="Typing SVG" />
   
   ![wave-divider](https://user-images.githubusercontent.com/74038190/212284115-47af1967-a88e-4c4e-9e5e-9a5a6c5f8d2b.gif)
 </div>
