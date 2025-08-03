@@ -54,14 +54,22 @@
 
 ---
 
-<!-- Animated Project Showcase -->
+<!-- Project Showcase - Working Example -->
 <h2 align="center">🌟 Featured Projects</h2>
 <div align="center">
-  <a href="https://github.com/Menuka4414/project1">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Menuka4414&repo=project1&theme=algolia" />
+  <!-- First Project -->
+  <a href="https://github.com/Menuka4414/Stock-Market-Prediction">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Menuka4414&repo=Stock-Market-Prediction&theme=algolia&bg_color=0d1117&hide_border=true" />
   </a>
-  <a href="https://github.com/Menuka4414/project2">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Menuka4414&repo=project2&theme=algolia" />
+  
+  <!-- Second Project -->
+  <a href="https://github.com/Menuka4414/E-Commerce-Platform">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Menuka4414&repo=E-Commerce-Platform&theme=algolia&bg_color=0d1117&hide_border=true" />
+  </a>
+  
+  <!-- Third Project (example of adding more) -->
+  <a href="https://github.com/Menuka4414/Portfolio-Website">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Menuka4414&repo=Portfolio-Website&theme=algolia&bg_color=0d1117&hide_border=true" />
   </a>
 </div>
 
