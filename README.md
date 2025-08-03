@@ -54,23 +54,22 @@
 
 ---
 
-<!-- Project Showcase - Working Example -->
+<!-- Project Showcase Section -->
 <h2 align="center">🌟 Featured Projects</h2>
-<div align="center">
-  <!-- First Project -->
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; padding: 10px;">
+
+  <!-- Machine Learning Mini Project -->
   <a href="https://github.com/Menuka4414/Machine-Learning-Mini-project-">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Menuka4414&repo=Stock-Market-Prediction&theme=algolia&bg_color=0d1117&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Menuka4414&repo=Machine-Learning-Mini-project-&theme=algolia&bg_color=0d1117&hide_border=true&show_owner=true" />
+    <p align="center">🧠 Machine Learning Mini Project</p>
   </a>
-  
-  <!-- Second Project -->
-  <a href="https://github.com/Menuka4414/E-Commerce-Platform">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Menuka4414&repo=E-Commerce-Platform&theme=algolia&bg_color=0d1117&hide_border=true" />
+
+  <!-- Deep Learning Mini Project -->
+  <a href="https://github.com/Menuka4414/Deep-Learning-Mini-Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Menuka4414&repo=Deep-Learning-Mini-Project&theme=algolia&bg_color=0d1117&hide_border=true&show_owner=true" />
+    <p align="center">🤖 Deep Learning Mini Project</p>
   </a>
-  
-  <!-- Third Project (example of adding more) -->
-  <a href="https://github.com/Menuka4414/Portfolio-Website">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Menuka4414&repo=Portfolio-Website&theme=algolia&bg_color=0d1117&hide_border=true" />
-  </a>
+
 </div>
 
 ---
