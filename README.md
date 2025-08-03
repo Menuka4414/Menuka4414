@@ -76,7 +76,7 @@
 
 <!-- Social Links with Badges - Modern Design -->
 <h2 align="center">🌐 Connect With Me</h2>
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 12px; max-width: 800px; margin: 0 auto;">
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 12px; max-width: 200px; margin: 0 auto;">
 
   <!-- LinkedIn - Enhanced -->
   <a href="https://www.linkedin.com/in/menuka-dilshan-1a3726212" target="_blank" style="text-decoration: none;">
