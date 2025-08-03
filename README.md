@@ -81,7 +81,7 @@
   <!-- LinkedIn - Enhanced -->
   <a href="https://www.linkedin.com/in/menuka-dilshan-1a3726212" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161B22&label=&color=0077B5" alt="LinkedIn" style="width: 100%;"/>
-    <p align="center" style="margin-top: 4px; color: #58a6ff;">Professional Profile</p>
+    <p align="center" style="margin-top: 2px; color: #58a6ff;">Professional Profile</p>
   </a>
 
   <!-- Twitter/X - Modern -->
